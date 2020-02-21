@@ -4,7 +4,6 @@
     <list default="true" id="65a398a2-910d-4d79-8731-f1bbcd0e76b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/entity/CaesarCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/entity/CaesarCipher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/entity/ElbonianCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/entity/ElbonianCipher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/entity/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/entity/Observer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,21 +40,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finished Ciphers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Ciphers" />
+    <MESSAGE value="Fixed Cesarian" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Cesarian" />
   </component>
   <component name="WindowStateProjectService">
     <state x="443" y="299" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582324221447">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="443" y="299" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1368.872@0.0.1368.872" timestamp="1582324221447" />
-    <state x="338" y="34" key="CommitChangelistDialog2" timestamp="1582324711503">
+    <state x="338" y="34" key="CommitChangelistDialog2" timestamp="1582324727084">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="338" y="34" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582324711503" />
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582324665947">
+    <state x="338" y="34" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582324727084" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582324729524">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582324665947" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582324729524" />
     <state x="492" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582324716848">
       <screen x="0" y="0" width="1368" height="872" />
     </state>

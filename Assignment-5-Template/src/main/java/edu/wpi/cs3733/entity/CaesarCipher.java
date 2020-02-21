@@ -22,20 +22,29 @@ public class CaesarCipher implements Observer {
 		for (char letter : letters) {
 
 			//Shift value of letters only
-			if (letter > 'z' && letter < 'a') {//lowercase letters
+			if (letter < 'z' && letter > 'a') {//lowercase letters
 				letter = (char) (letter + SHIFT);
-			} else if (letter > 'Z' && letter < 'A') {//uppercase letters
+
+				//Cycle letters from beginning to end of alphabet, or vice versa.
+				if (letter > 'z') {
+					letter = (char) (letter - 26);
+				} else if (letter < 'a' ) {
+					letter = (char) (letter + 26);
+				}
+			} else if (letter < 'Z' && letter > 'A') {//uppercase letters
 				letter = (char) (letter + SHIFT);
+
+				//Cycle letters from beginning to end of alphabet, or vice versa.
+				if (letter > 'z') {
+					letter = (char) (letter - 26);
+				} else if (letter < 'a' ) {
+					letter = (char) (letter + 26);
+				}
 			} else {//non-letter char
 				letter = letter;
 			}
 
-			//Cycle letters from beginning to end of alphabet, or vice versa.
-			if (letter > 'z' || letter > 'Z') {
-				letter = (char) (letter - 26);
-			} else if (letter < 'A' || letter < 'A') {
-				letter = (char) (letter + 26);
-			}
+
 			encodedText += letter;
 		}
 

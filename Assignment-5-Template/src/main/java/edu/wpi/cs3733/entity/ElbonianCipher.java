@@ -21,16 +21,16 @@ public class ElbonianCipher implements Observer {
 		char[] letters = this.text.toCharArray();
 		String encodedText = "";
 
-		for (char letter : letters) {
-			if (letter > 'z' && letter < 'a') {//lowercase letters
-				letter = (char) ((int)letter - LOWERCASE_SHIFT);
-			} else if (letter > 'Z' && letter < 'A') {//uppercase letters
-				letter = (char) ((int)letter - UPPERCASE_SHIFT);
-			} else {//non-letter char
-				letter = letter;
+		for (char character : letters) {
+			if (character > 'z' && character < 'a') {//lowercase letters
+				character = (char) ((int)character - LOWERCASE_SHIFT);
+			} else if (character > 'Z' && character < 'A') {//uppercase letters
+				character = (char) ((int)character - UPPERCASE_SHIFT);
+			} else {//non-character char
+				character = character;
 			}
 
-			encodedText += letter;
+			encodedText += character;
 		}
 
 
