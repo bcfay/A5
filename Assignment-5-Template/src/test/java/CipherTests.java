@@ -13,31 +13,31 @@ public class CipherTests {
   @Test
   public void caesarCiphergetTextTest1(){
   CaesarCipher cipher = new CaesarCipher("hello");
-  assertEquals(cipher.getText(), "czggj");
+  assertEquals("czggj", cipher.getText());
   }
 
   @Test
   public void caesarCiphergetTextTest2(){
     CaesarCipher cipher = new CaesarCipher("hello child");
-    assertEquals(cipher.getText(), "czggj xcdgy");
+    assertEquals("czggj xcdgy", cipher.getText());
   }
 
   @Test
   public void caesarCiphergetTextTest3(){
     CaesarCipher cipher = new CaesarCipher("HELLO child");
-    assertEquals(cipher.getText(), "CZGGI xcdgy");
+    assertEquals("CZGGI xcdgy", cipher.getText());
   }
 
   @Test
   public void caesarCiphergetTextTest4(){
     CaesarCipher cipher = new CaesarCipher("h5llo chi7d");  //testing for numbers in string
-    assertEquals(cipher.getText(), "c5ggj xcd7y");        //idk what result should be
+    assertEquals("c5ggj xcd7y", cipher.getText());        //idk what result should be
   }
 
   /**@Test
   public void elbonianCiphergetTextTest1(){
-    ElbonianCipher cipher = new ElbonianCipher();
-    assertEquals(cipher.getText("This is a message"), "20080919S0919S01S13051919010705");
+    ElbonianCipher cipher = new ElbonianCipher("This is a message");
+    assertEquals(cipher.getText(), "20080919S0919S01S13051919010705");
   }*/
 
 
