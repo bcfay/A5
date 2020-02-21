@@ -7,6 +7,9 @@ public class CaesarCipher implements Observer {
 
 	private String text;
 
+	public CaesarCipher(String text) {
+		this.text = text;
+	}
 
 	public void setText(String text) {
 		this.text = text;
@@ -41,7 +44,6 @@ public class CaesarCipher implements Observer {
 
 			return encodedText;
 		}
-
 
 
 		@Override
