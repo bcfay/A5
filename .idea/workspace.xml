@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65a398a2-910d-4d79-8731-f1bbcd0e76b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/entity/CaesarCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/entity/CaesarCipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/entity/ElbonianCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/entity/ElbonianCipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/entity/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/entity/Observer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="A5" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1Y8ScSO4KKTYBV4Bl6c6uUUAALL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished Ciphers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Ciphers" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="299" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582324221447">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="443" y="299" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1368.872@0.0.1368.872" timestamp="1582324221447" />
+    <state x="338" y="34" key="CommitChangelistDialog2" timestamp="1582324593497">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="338" y="34" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582324593497" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582324665947">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582324665947" />
+    <state x="492" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582324686879">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="492" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872@0.0.1368.872" timestamp="1582324686879" />
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1582324203385">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1582324203385" />
+  </component>
+</project>
