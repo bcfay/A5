@@ -22,11 +22,13 @@ public class ElbonianCipher implements Observer {
 		String encodedText = "";
 
 		for (char character : letters) {
-			if (character > 'z' && character < 'a') {//lowercase letters
+			if (character < 'z' && character > 'a') {//lowercase letters
 				character = (char) ((int)character - LOWERCASE_SHIFT);
-			} else if (character > 'Z' && character < 'A') {//uppercase letters
+			} else if (character < 'Z' && character > 'A') {//uppercase letters
 				character = (char) ((int)character - UPPERCASE_SHIFT);
-			} else {//non-character char
+			} else if(character == ' '){//Space to S
+				character = 'S';
+			}else{//non-character char
 				character = character;
 			}
 
@@ -37,7 +39,7 @@ public class ElbonianCipher implements Observer {
 
 
 
-		return null;
+		return encodedText;
 	}
 
 	@Override
