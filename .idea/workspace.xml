@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="65a398a2-910d-4d79-8731-f1bbcd0e76b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-5-Template/src/test/java/CipherTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5-Template/src/test/java/CipherTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/entity/CaesarCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/entity/CaesarCipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/entity/ElbonianCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/entity/ElbonianCipher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +26,6 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunManager">
@@ -45,43 +44,12 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="65a398a2-910d-4d79-8731-f1bbcd0e76b3" name="Default Changelist" comment="" />
-      <created>1582325458678</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1582325458678</updated>
-      <workItem from="1582325460350" duration="253000" />
-    </task>
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -91,29 +59,46 @@
     <MESSAGE value="Finished Ciphers" />
     <MESSAGE value="Fixed Cesarian" />
     <MESSAGE value="Fixed Cesarian again" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed Cesarian again" />
+    <MESSAGE value="Fixed Elbonian" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Elbonian" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582325646311">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="490" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1582325749151">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1582325646311" />
+    <state x="490" y="153" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1582325749151" />
     <state x="443" y="299" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582324221447">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="443" y="299" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1368.872@0.0.1368.872" timestamp="1582324221447" />
-    <state x="338" y="34" key="CommitChangelistDialog2" timestamp="1582324980195">
+    <state x="338" y="34" key="CommitChangelistDialog2" timestamp="1582325234979">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="338" y="34" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582324980195" />
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582324729524">
+    <state x="338" y="34" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582325234979" />
+    <state width="663" height="227" key="GridCell.Tab.0.bottom" timestamp="1582325904322">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582324729524" />
-    <state x="492" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582324716848">
+    <state width="663" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582325904322" />
+    <state width="663" height="227" key="GridCell.Tab.0.center" timestamp="1582325904322">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="492" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872@0.0.1368.872" timestamp="1582324716848" />
+    <state width="663" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1582325904322" />
+    <state width="663" height="227" key="GridCell.Tab.0.left" timestamp="1582325904322">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="663" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1582325904322" />
+    <state width="663" height="227" key="GridCell.Tab.0.right" timestamp="1582325904322">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="663" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1582325904322" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582325408161">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582325408161" />
+    <state x="492" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582325964414">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="492" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872@0.0.1368.872" timestamp="1582325964414" />
     <state x="347" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1582324203385">
       <screen x="0" y="0" width="1368" height="872" />
     </state>

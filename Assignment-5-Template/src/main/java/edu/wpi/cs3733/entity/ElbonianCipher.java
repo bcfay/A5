@@ -5,7 +5,10 @@ package edu.wpi.cs3733.entity;
  */
 public class ElbonianCipher implements Observer {
 
-	private String text;
+	public ElbonianCipher() {
+	}
+
+	private String text = "";
 
 	public void setText(String text) {
 		this.text = text;
