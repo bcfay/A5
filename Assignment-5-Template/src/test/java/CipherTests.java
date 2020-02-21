@@ -25,7 +25,7 @@ public class CipherTests {
   @Test
   public void caesarCiphergetTextTest3(){
     CaesarCipher cipher = new CaesarCipher("HELLO child");
-    assertEquals("CZGGI xcdgy", cipher.getText());
+    assertEquals("CZGGJ xcdgy", cipher.getText());
   }
 
   @Test
