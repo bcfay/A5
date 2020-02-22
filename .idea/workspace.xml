@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65a398a2-910d-4d79-8731-f1bbcd0e76b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/entity/ElbonianCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/entity/ElbonianCipher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/entity/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5-Template/src/main/java/edu/wpi/cs3733/entity/Message.java" afterDir="false" />
-    </list>
+    <list default="true" id="65a398a2-910d-4d79-8731-f1bbcd0e76b3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582325458678</updated>
       <workItem from="1582325460350" duration="2943000" />
-      <workItem from="1582387296261" duration="2190000" />
+      <workItem from="1582387296261" duration="2516000" />
     </task>
     <servers />
   </component>
@@ -134,22 +129,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582328238881" />
-    <state width="637" height="10" key="GridCell.Tab.0.bottom" timestamp="1582388431136">
+    <state width="637" height="10" key="GridCell.Tab.0.bottom" timestamp="1582400671963">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="10" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582388431136" />
-    <state width="637" height="10" key="GridCell.Tab.0.center" timestamp="1582388431135">
+    <state width="637" height="10" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582400671963" />
+    <state width="637" height="10" key="GridCell.Tab.0.center" timestamp="1582400671962">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="10" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582388431135" />
-    <state width="637" height="10" key="GridCell.Tab.0.left" timestamp="1582388431135">
+    <state width="637" height="10" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582400671962" />
+    <state width="637" height="10" key="GridCell.Tab.0.left" timestamp="1582400671962">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="10" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582388431135" />
-    <state width="637" height="10" key="GridCell.Tab.0.right" timestamp="1582388431135">
+    <state width="637" height="10" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582400671962" />
+    <state width="637" height="10" key="GridCell.Tab.0.right" timestamp="1582400671963">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="10" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582388431135" />
+    <state width="637" height="10" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582400671963" />
     <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582324729524">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
