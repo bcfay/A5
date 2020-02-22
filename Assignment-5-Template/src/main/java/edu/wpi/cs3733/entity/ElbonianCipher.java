@@ -8,7 +8,7 @@ public class ElbonianCipher implements Observer {
 	public ElbonianCipher() {
 	}
 
-	private String text = "";
+	private String text;
 
 	public void setText(String text) {
 		this.text = text;
@@ -47,6 +47,5 @@ public class ElbonianCipher implements Observer {
 
 	@Override
 	public void notify(Object object){
-
 	}
 }
